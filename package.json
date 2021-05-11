@@ -18,7 +18,7 @@
         "cross-env": "^5.1.4",
         "jquery": "^3.2",
         "laravel-mix": "^2.1.11",
-        "lodash": "^4.17.4",
+        "lodash": "^4.17.21",
         "modal-vue": "0.0.3",
         "popper.js": "^1.14.3",
         "vodal": "^2.3.3",
