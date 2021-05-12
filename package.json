@@ -14,7 +14,7 @@
         "bootstrap": "^4.1.0",
         "browser-sync": "^2.23.6",
         "browser-sync-webpack-plugin": "^2.2.2",
-        "chart.js": "^2.7.2",
+        "chart.js": "^2.9.4",
         "cross-env": "^5.1.4",
         "jquery": "^3.2",
         "laravel-mix": "^2.1.11",
